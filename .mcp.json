@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "videozero": {
+      "type": "http",
+      "url": "https://engine.videozero.ai/mcp"
+    }
+  }
+}

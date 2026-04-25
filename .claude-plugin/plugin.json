@@ -1,0 +1,10 @@
+{
+  "name": "videozero",
+  "version": "0.1.0",
+  "description": "VideoZero plugin — connects Claude Code to the VideoZero engine for video generation, revision, and likes.",
+  "author": {
+    "name": "VideoZero"
+  },
+  "homepage": "https://videozero.ai",
+  "keywords": ["video", "generation", "videozero"]
+}
