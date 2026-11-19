@@ -1,0 +1,18 @@
+{
+  "name": "videozero",
+  "description": "The VideoZero plugin for Claude Code: animated videos from code.",
+  "owner": {
+    "name": "VideoZero",
+    "url": "https://videozero.ai"
+  },
+  "plugins": [
+    {
+      "name": "videozero",
+      "displayName": "VideoZero",
+      "description": "Make animated videos from Claude Code: kinetic typography, animated charts and diagrams, LaTeX, 3D scenes, maps, narrated explainers and product demos.",
+      "category": "design",
+      "source": "./",
+      "homepage": "https://videozero.ai"
+    }
+  ]
+}

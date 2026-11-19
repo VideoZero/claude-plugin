@@ -1,10 +1,23 @@
 {
   "name": "videozero",
-  "version": "0.1.0",
-  "description": "VideoZero plugin — connects Claude Code to the VideoZero engine for video generation, revision, and likes.",
+  "displayName": "VideoZero",
+  "version": "0.2.0",
+  "description": "Make animated videos from Claude Code: kinetic typography, animated charts and diagrams, LaTeX, 3D scenes, maps, narrated explainers and product demos. Claude writes the scenes, VideoZero builds and previews them, and exports MP4.",
   "author": {
-    "name": "VideoZero"
+    "name": "VideoZero",
+    "url": "https://videozero.ai"
   },
   "homepage": "https://videozero.ai",
-  "keywords": ["video", "generation", "videozero"]
+  "icon": ".claude-plugin/icon.png",
+  "repository": "https://github.com/VideoZero/claude-plugin",
+  "license": "Apache-2.0",
+  "privacyPolicyUrl": "https://videozero.ai/privacy",
+  "keywords": [
+    "video",
+    "animation",
+    "motion-graphics",
+    "explainer",
+    "motion-canvas",
+    "mcp"
+  ]
 }
